@@ -1,6 +1,6 @@
 import * as React from "react";
 import { Button, Input, Flex, Checkbox, Heading } from "@chakra-ui/react";
-import { observer } from "mobx-react";
+import { observer } from "mobx-react-lite";
 
 import store from "../store";
 
